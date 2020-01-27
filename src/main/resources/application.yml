@@ -1,1 +1,8 @@
-
+server:
+  port: 8081
+spring:
+  mail:
+    host: smtp.mailtrap.io
+    port: 2525
+    username:
+    password:
