@@ -1,0 +1,10 @@
+POST http://localhost:8081/feedback
+Content-Type: application/json
+
+{
+  "name": "ZeeroIQ",
+  "email": "zeeroiq@gmail.com",
+  "feedback": "Confirmation for the mail send"
+}
+
+###
